@@ -514,61 +514,116 @@
   }
  ],
  "latest_news": {
-  "read_at": "2026-11-26T02:34Z",
+  "read_at": "2026-11-26T11:22Z",
   "by": "place.santarem@PrompTugal.dinis (run by cl-6.places@PrompTugal.dinis)",
   "about": "Headlines read from the place's local outlets' public feeds: headline, link, source and time read only; nothing is copied from the articles. The sources' licences are not cleared by rights@, so these are leads with links, not for republication. Items with mentions_place true name the place in the headline.",
   "main_headline": {
-   "title": "Pais natais motard voltam a percorrer as ruas de Santarém",
-   "url": "https://omirante.pt/cultura-e-lazer/2026-11-25-pais-natais-motard-voltam-a-percorrer-as-ruas-de-santarem-071fa97c",
+   "title": "Cheias em Valada inspiram conferência em Santarém",
+   "url": "https://omirante.pt/cultura-e-lazer/2026-11-26-cheias-em-valada-inspiram-conferencia-em-santarem-02fcfbe0",
    "source": "O Mirante",
-   "date": "2026-11-25",
-   "read_at": "2026-11-26T02:32:09Z",
+   "date": "2026-11-26",
+   "read_at": "2026-11-26T11:15:19Z",
    "names_place": true
   },
   "items": [
    {
-    "title": "Margarida Lopes",
-    "url": "https://omirante.pt/aniversarios/2026-11-26-margarida-lopes-aac80b1e",
-    "published": "2026-11-26T00:03Z",
-    "source": "O Mirante",
-    "source_site": "https://omirante.pt",
-    "feed": "https://rss.impresa.pt/feed/latest/mirante.rss",
-    "read_at": "2026-11-26T02:32:09Z",
+    "title": "Tomar vai comparar custos de reconstruir torre do estádio ou substituir as quatro estruturas",
+    "url": "https://mediotejo.net/tomar-vai-comparar-custos-de-reconstruir-torre-do-estadio-ou-substituir-as-quatro-estruturas/",
+    "published": "2026-11-26T11:05Z",
+    "source": "Médio Tejo",
+    "source_site": "https://mediotejo.net",
+    "feed": "https://mediotejo.net/feed/",
+    "read_at": "2026-11-26T11:15:17Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
    {
-    "title": "Susana Colaço",
-    "url": "https://omirante.pt/aniversarios/2026-11-26-susana-colaco-1fcb3691",
-    "published": "2026-11-26T00:03Z",
+    "title": "“Faltam-nos eleitos mais interessados  nos cidadãos do que nos partidos”",
+    "url": "https://omirante.pt/edicao-1500/2026-11-26-faltam-nos-eleitos-mais-interessados--nos-cidadaos-do-que-nos-partidos-d3a6c526",
+    "published": "2026-11-26T11:00Z",
     "source": "O Mirante",
     "source_site": "https://omirante.pt",
     "feed": "https://rss.impresa.pt/feed/latest/mirante.rss",
-    "read_at": "2026-11-26T02:32:09Z",
+    "read_at": "2026-11-26T11:15:19Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
    {
-    "title": "Eduarda Oliveira",
-    "url": "https://omirante.pt/aniversarios/2026-11-26-eduarda-oliveira-7174a19b",
-    "published": "2026-11-26T00:03Z",
+    "title": "Médio Tejo espera financiamento a 100% para recuperar estragos das intempéries",
+    "url": "https://omirante.pt/sociedade/2026-11-26-medio-tejo-espera-financiamento-a-100-para-recuperar-estragos-das-intemperies-a0ab225a",
+    "published": "2026-11-26T10:37Z",
     "source": "O Mirante",
     "source_site": "https://omirante.pt",
     "feed": "https://rss.impresa.pt/feed/latest/mirante.rss",
-    "read_at": "2026-11-26T02:32:09Z",
+    "read_at": "2026-11-26T11:15:19Z",
     "mentions_place": false,
     "date": "2026-11-26"
    },
    {
-    "title": "O som da liberdade tem limites?",
-    "url": "https://omirante.pt/opiniao/2026-11-25-o-som-da-liberdade-tem-limites--d98c3fb0",
-    "published": "2026-11-25T23:10Z",
+    "title": "Isabel Ruth dá nome ao átrio do Cine-Teatro Paraíso na abertura do Planos Film Fest",
+    "url": "https://mediotejo.net/isabel-ruth-da-nome-ao-atrio-do-cine-teatro-paraiso-na-abertura-do-planos-film-fest/",
+    "published": "2026-11-26T10:35Z",
+    "source": "Médio Tejo",
+    "source_site": "https://mediotejo.net",
+    "feed": "https://mediotejo.net/feed/",
+    "read_at": "2026-11-26T11:15:17Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Incêndios no aterro da Raposa preocupam moradores que exigem respostas",
+    "url": "https://omirante.pt/sociedade/2026-11-26-incendios-no-aterro-da-raposa-preocupam-moradores-que-exigem-respostas-f135c458",
+    "published": "2026-11-26T10:34Z",
     "source": "O Mirante",
     "source_site": "https://omirante.pt",
     "feed": "https://rss.impresa.pt/feed/latest/mirante.rss",
-    "read_at": "2026-11-26T02:32:09Z",
+    "read_at": "2026-11-26T11:15:19Z",
     "mentions_place": false,
-    "date": "2026-11-25"
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Cheias em Valada inspiram conferência em Santarém",
+    "url": "https://omirante.pt/cultura-e-lazer/2026-11-26-cheias-em-valada-inspiram-conferencia-em-santarem-02fcfbe0",
+    "published": "2026-11-26T10:32Z",
+    "source": "O Mirante",
+    "source_site": "https://omirante.pt",
+    "feed": "https://rss.impresa.pt/feed/latest/mirante.rss",
+    "read_at": "2026-11-26T11:15:19Z",
+    "mentions_place": true,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Secretário de Estado João Moura sacrifica protecção dos solos por investimento de milhões de empresário ligado a Angola",
+    "url": "https://omirante.pt/politica/2026-11-26-secretario-de-estado-joao-moura-sacrifica-proteccao-dos-solos-por-investimento-de-milhoes-de-empresario-ligado-a-angola-0bb8a358",
+    "published": "2026-11-26T10:00Z",
+    "source": "O Mirante",
+    "source_site": "https://omirante.pt",
+    "feed": "https://rss.impresa.pt/feed/latest/mirante.rss",
+    "read_at": "2026-11-26T11:15:19Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Quem não chora não mama!",
+    "url": "https://omirante.pt/cavaleiro-andante/2026-11-26-quem-nao-chora-nao-mama-074d8962",
+    "published": "2026-11-26T10:00Z",
+    "source": "O Mirante",
+    "source_site": "https://omirante.pt",
+    "feed": "https://rss.impresa.pt/feed/latest/mirante.rss",
+    "read_at": "2026-11-26T11:15:19Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
+   },
+   {
+    "title": "Mação celebra Dia Mundial da Oliveira com exposição, degustações e gastronomia",
+    "url": "https://mediotejo.net/macao-celebra-dia-mundial-da-oliveira-com-exposicao-degustacoes-e-gastronomia/",
+    "published": "2026-11-26T08:25Z",
+    "source": "Médio Tejo",
+    "source_site": "https://mediotejo.net",
+    "feed": "https://mediotejo.net/feed/",
+    "read_at": "2026-11-26T11:15:17Z",
+    "mentions_place": false,
+    "date": "2026-11-26"
    },
    {
     "title": "Abrantes aprova refeições escolares gratuitas para todos os alunos a partir de janeiro",
@@ -577,7 +632,7 @@
     "source": "Médio Tejo",
     "source_site": "https://mediotejo.net",
     "feed": "https://mediotejo.net/feed/",
-    "read_at": "2026-11-26T02:32:07Z",
+    "read_at": "2026-11-26T11:15:17Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -588,29 +643,7 @@
     "source": "Médio Tejo",
     "source_site": "https://mediotejo.net",
     "feed": "https://mediotejo.net/feed/",
-    "read_at": "2026-11-26T02:32:07Z",
-    "mentions_place": false,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "Pais natais motard voltam a percorrer as ruas de Santarém",
-    "url": "https://omirante.pt/cultura-e-lazer/2026-11-25-pais-natais-motard-voltam-a-percorrer-as-ruas-de-santarem-071fa97c",
-    "published": "2026-11-25T21:00Z",
-    "source": "O Mirante",
-    "source_site": "https://omirante.pt",
-    "feed": "https://rss.impresa.pt/feed/latest/mirante.rss",
-    "read_at": "2026-11-26T02:32:09Z",
-    "mentions_place": true,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "Entroncamento volta a vender vales de compras de 10 euros por metade do preço",
-    "url": "https://omirante.pt/cultura-e-lazer/2026-11-25-entroncamento-volta-a-vender-vales-de-compras-de-10-euros-por-metade-do-preco-5fffed8e",
-    "published": "2026-11-25T21:00Z",
-    "source": "O Mirante",
-    "source_site": "https://omirante.pt",
-    "feed": "https://rss.impresa.pt/feed/latest/mirante.rss",
-    "read_at": "2026-11-26T02:32:09Z",
+    "read_at": "2026-11-26T11:15:17Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -621,7 +654,7 @@
     "source": "Mais Ribatejo",
     "source_site": "https://maisribatejo.pt",
     "feed": "https://maisribatejo.pt/feed/",
-    "read_at": "2026-11-26T02:32:05Z",
+    "read_at": "2026-11-26T11:15:16Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -632,7 +665,7 @@
     "source": "Mais Ribatejo",
     "source_site": "https://maisribatejo.pt",
     "feed": "https://maisribatejo.pt/feed/",
-    "read_at": "2026-11-26T02:32:05Z",
+    "read_at": "2026-11-26T11:15:16Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -643,7 +676,7 @@
     "source": "Mais Ribatejo",
     "source_site": "https://maisribatejo.pt",
     "feed": "https://maisribatejo.pt/feed/",
-    "read_at": "2026-11-26T02:32:05Z",
+    "read_at": "2026-11-26T11:15:16Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -654,7 +687,7 @@
     "source": "Médio Tejo",
     "source_site": "https://mediotejo.net",
     "feed": "https://mediotejo.net/feed/",
-    "read_at": "2026-11-26T02:32:07Z",
+    "read_at": "2026-11-26T11:15:17Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -665,7 +698,7 @@
     "source": "Mais Ribatejo",
     "source_site": "https://maisribatejo.pt",
     "feed": "https://maisribatejo.pt/feed/",
-    "read_at": "2026-11-26T02:32:05Z",
+    "read_at": "2026-11-26T11:15:16Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -676,7 +709,7 @@
     "source": "Mais Ribatejo",
     "source_site": "https://maisribatejo.pt",
     "feed": "https://maisribatejo.pt/feed/",
-    "read_at": "2026-11-26T02:32:05Z",
+    "read_at": "2026-11-26T11:15:16Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -687,40 +720,7 @@
     "source": "Mais Ribatejo",
     "source_site": "https://maisribatejo.pt",
     "feed": "https://maisribatejo.pt/feed/",
-    "read_at": "2026-11-26T02:32:05Z",
-    "mentions_place": false,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "Abrantes aprova orçamento de 71,9 ME para 2027 e mantém impostos municipais",
-    "url": "https://mediotejo.net/abrantes-aprova-orcamento-de-719-me-para-2027-e-mantem-impostos-municipais/",
-    "published": "2026-11-25T18:23Z",
-    "source": "Médio Tejo",
-    "source_site": "https://mediotejo.net",
-    "feed": "https://mediotejo.net/feed/",
-    "read_at": "2026-11-26T02:32:07Z",
-    "mentions_place": false,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "Tó Trips atua esta noite no Cine-Teatro Paraíso, em Tomar",
-    "url": "https://mediotejo.net/to-trips-atua-esta-noite-no-cine-teatro-paraiso-em-tomar/",
-    "published": "2026-11-25T17:46Z",
-    "source": "Médio Tejo",
-    "source_site": "https://mediotejo.net",
-    "feed": "https://mediotejo.net/feed/",
-    "read_at": "2026-11-26T02:32:07Z",
-    "mentions_place": false,
-    "date": "2026-11-25"
-   },
-   {
-    "title": "Tomar recebe encontro sobre atração e retenção de profissionais no setor do Turismo",
-    "url": "https://mediotejo.net/tomar-recebe-encontro-sobre-atracao-e-retencao-de-profissionais-no-setor-do-turismo/",
-    "published": "2026-11-25T17:41Z",
-    "source": "Médio Tejo",
-    "source_site": "https://mediotejo.net",
-    "feed": "https://mediotejo.net/feed/",
-    "read_at": "2026-11-26T02:32:07Z",
+    "read_at": "2026-11-26T11:15:16Z",
     "mentions_place": false,
     "date": "2026-11-25"
    },
@@ -731,7 +731,7 @@
     "source": "Jornal de Santarém",
     "source_site": "https://jornaldesantarem.sapo.pt",
     "feed": "https://jornaldesantarem.sapo.pt/feed/",
-    "read_at": "2026-11-26T02:32:04Z",
+    "read_at": "2026-11-26T11:15:14Z",
     "mentions_place": false,
     "date": null
    },
@@ -742,7 +742,7 @@
     "source": "Jornal de Santarém",
     "source_site": "https://jornaldesantarem.sapo.pt",
     "feed": "https://jornaldesantarem.sapo.pt/feed/",
-    "read_at": "2026-11-26T02:32:04Z",
+    "read_at": "2026-11-26T11:15:14Z",
     "mentions_place": false,
     "date": null
    },
@@ -753,7 +753,7 @@
     "source": "Jornal de Santarém",
     "source_site": "https://jornaldesantarem.sapo.pt",
     "feed": "https://jornaldesantarem.sapo.pt/feed/",
-    "read_at": "2026-11-26T02:32:04Z",
+    "read_at": "2026-11-26T11:15:14Z",
     "mentions_place": true,
     "date": null
    },
@@ -764,7 +764,7 @@
     "source": "Jornal de Santarém",
     "source_site": "https://jornaldesantarem.sapo.pt",
     "feed": "https://jornaldesantarem.sapo.pt/feed/",
-    "read_at": "2026-11-26T02:32:04Z",
+    "read_at": "2026-11-26T11:15:14Z",
     "mentions_place": true,
     "date": null
    },
@@ -775,7 +775,7 @@
     "source": "Jornal de Santarém",
     "source_site": "https://jornaldesantarem.sapo.pt",
     "feed": "https://jornaldesantarem.sapo.pt/feed/",
-    "read_at": "2026-11-26T02:32:04Z",
+    "read_at": "2026-11-26T11:15:14Z",
     "mentions_place": true,
     "date": null
    },
@@ -786,7 +786,7 @@
     "source": "Jornal de Santarém",
     "source_site": "https://jornaldesantarem.sapo.pt",
     "feed": "https://jornaldesantarem.sapo.pt/feed/",
-    "read_at": "2026-11-26T02:32:04Z",
+    "read_at": "2026-11-26T11:15:14Z",
     "mentions_place": false,
     "date": null
    }
